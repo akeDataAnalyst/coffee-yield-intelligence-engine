@@ -1,0 +1,15 @@
+1. Project: Agronomic Intervention Engine (Coffee Yield Diagnostic)
+
+Title: Smallholder Yield Gap Analysis & Precision Intervention Framework
+
+
+Problem: Ethiopia’s coffee sector suffers from a massive "Yield Gap"—the difference between potential and actual output. Conventional data relies on farmer recall, which has a 20-30% error rate, making it impossible for organizations like Enveritas to measure the true impact of their training programs.
+
+
+Deep Insight Solution: Rather than just a "predictor," build a Diagnostic Tool. Use a Random Forest Regressor trained on ECX data and synthetic soil/weather inputs. Instead of just outputting a number, use SHAP (SHapley Additive exPlanations) to show why a specific farm is underperforming.
+
+
+Streamlit Implementation: A "What-If" simulator where a field agent can toggle "Pruning Adoption" or "Compost Usage" to see the predicted shift in the yield distribution curve.
+
+
+Recommendation: Focus on Validation Rigor. Discuss how you would "ground-truth" the model using GPS-tagged plot samples, proving you understand the transition from digital model to physical fieldwork.

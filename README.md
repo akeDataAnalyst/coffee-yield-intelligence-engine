@@ -1,5 +1,5 @@
 # Coffee Yield Intelligence & Intervention Engine
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://coffee-yield-intelligence-engine-6lfzseypkxcbtv9xfkwody.streamlit.app/)
 
 ## Description
 This project is an end-to-end analytical system designed to improve data reliability and intervention targeting in smallholder coffee systems. By integrating satellite-derived environmental data with statistical and machine learning models, the system generates an objective "ground truth" estimate of yield and identifies high-impact intervention opportunities.
